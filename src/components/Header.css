@@ -1,0 +1,41 @@
+/* src/components/Header.css */
+.lwood-header {
+  background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); /* Subtle space colors */
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.2); /* Soft glow effect */
+}
+
+.lwood-header h1 {
+  font-size: 3rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #d1d1d1;
+  margin-bottom: 10px;
+}
+
+.lwood-header nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+.lwood-header nav ul li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+.lwood-header nav ul li a {
+  color: #d1d1d1;
+  font-size: 1.2rem;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.lwood-header nav ul li a:hover {
+  color: #ff8c00; /* Hover effect */
+}
+

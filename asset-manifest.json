@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/lwood-codes0623/lwood-codes0623.github.io.git/static/css/main.5c0b1eeb.css",
-    "main.js": "/lwood-codes0623/lwood-codes0623.github.io.git/static/js/main.1626a8e2.js",
-    "index.html": "/lwood-codes0623/lwood-codes0623.github.io.git/index.html",
-    "main.5c0b1eeb.css.map": "/lwood-codes0623/lwood-codes0623.github.io.git/static/css/main.5c0b1eeb.css.map",
-    "main.1626a8e2.js.map": "/lwood-codes0623/lwood-codes0623.github.io.git/static/js/main.1626a8e2.js.map"
+    "main.css": "/static/css/main.5c0b1eeb.css",
+    "main.js": "/static/js/main.1626a8e2.js",
+    "index.html": "/index.html",
+    "main.5c0b1eeb.css.map": "/static/css/main.5c0b1eeb.css.map",
+    "main.1626a8e2.js.map": "/static/js/main.1626a8e2.js.map"
   },
   "entrypoints": [
     "static/css/main.5c0b1eeb.css",
